@@ -1,0 +1,34 @@
+.labels { 
+    display: inline-block; 
+    width: 140px; 
+    text-align: right; 
+  } 
+ 
+
+  .availability{
+    font-size: 36px;
+    color: green;
+    margin-top: 10px;
+  }
+
+  .slot{
+    margin-top: 60px;
+    text-align: center;
+    font-size: 24px;
+    margin-right: 100px;
+  }
+
+  input[type=submit] {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .asd{
+    margin-top: 30px;
+    margin-right: 1000p;
+  }

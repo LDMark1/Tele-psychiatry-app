@@ -1,0 +1,144 @@
+.PatientEmailLabel{
+    position: absolute;
+    margin-top: -41%;
+    margin-left: 67%;
+    font-size: 20px;
+}
+
+.PatientEmailInput{
+    position: absolute;
+    margin-top: -41.5%;
+    margin-left: 77%;
+    width: 20%;
+}
+
+.docEmailLabel{
+    margin-left: 20%;
+    margin-top: -41%;
+    font-size: 20px;
+}
+
+.docEmailInput{
+    position: absolute;
+    margin-left: 45%;
+    margin-top: -1.8%;
+    width: 20%;
+}
+
+.PreferredTS{
+    margin-left: 20%;
+    margin-top: 2%;
+    font-size: 20px;
+}
+
+.PreferredTSInput{
+    position: absolute;
+    margin-left: 45%;
+    margin-top: -1.8%;
+    width: 20%;
+}
+
+.MCQsHeading{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 2.5%;
+    width: 20%;
+    font-size: 24px;
+    width: 35%;
+}
+
+.MCQs{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 20%;
+    font-size: 24px;
+    width: 80%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mcqlabels{
+    margin-left: 40px;
+    padding: 10px;
+    
+}
+
+.body{
+    background-color: white;
+}
+
+h2{
+    color: green;
+    font-weight: 800;
+    font-size: larger;
+}
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+  }
+  
+  .quiz-container {
+    width: 600px;
+    margin-left: 700px;
+    margin-top: 100px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    align-content: center;
+    position: absolute;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 0;
+    color: #333;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    margin-top: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    color: #666;
+  }
+  
+  input[type="radio"] {
+    margin-right: 10px;
+  }
+  
+  .button {
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #0069d9;
+  }
+  
+  .button:focus {
+    outline: none;
+  }
+
+  .navbarsize{
+    height: 3000px;
+    width: 1500px;
+    margin-top: 60px;
+    position: absolute;
+  }

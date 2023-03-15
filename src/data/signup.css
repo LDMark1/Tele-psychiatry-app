@@ -1,0 +1,84 @@
+.cat{
+    margin-top: 70px;
+    margin-left: 700px;
+  width: 500px;
+  border-radius: 25px;
+  color: white;
+  background-color: white;
+  color: black;
+  height: 700px;
+  font-family: 'Source Code Pro', monospace;
+}
+.header{
+  margin-left: 100px;
+}
+.font1{
+  float:left;
+  margin-right: 105px;
+  margin-left: 30px;
+ 
+}
+.input1{
+  margin-right: 20px; ;
+  margin-left: 30px;
+  border-radius: 4px;
+  width:170px;
+}
+.input2{
+  border-radius: 4px;
+  width:200px;
+  float: none;
+  border-color: grey;
+}
+.font2{
+  margin-left: 30px;
+}
+.input3{
+  margin-right: 25px;
+  margin-left: 30px;
+  border-radius: 4px;
+  width:400px;
+  border-color: grey;
+}
+.input4 {
+  margin-right: 25px;
+  margin-left: 30px;
+  border-radius: 4px;
+  width:410px;
+  border-color: grey;
+  height: 40px;
+}
+.input5 {
+  margin-left: 30px;
+}
+.button{
+  margin-left: 30px;
+  background-color:  #3ed37c;
+  width: 400px;
+  height: 45px;
+  border-radius: 10px;
+  font-size: large;
+}
+input[type="text"],[type="password"] ,textarea{
+  padding-left: 10px;
+  border-top:1px solid gray;
+  border-bottom:1px solid gray;
+  border-left:1px solid gray;
+  border-right:1px solid gray;
+  height: 40px;
+}
+input[type=text]:focus {
+  outline: 0;
+  outline: 2px solid rgb(24, 55, 156);
+}
+.button:hover{
+  background-color:  rgb(31, 93, 151);
+  color: white;
+}
+
+.error{
+  font-weight: bold;
+  font-size: 0.875rem;
+  color: #ff3300;
+  text-align: center;
+}

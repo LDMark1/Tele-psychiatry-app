@@ -1,0 +1,72 @@
+.navbar{
+  background-color: rgba(0, 0, 0);
+  height: 80px;
+  font-family: "Audiowide", sans-serif;
+  position: relative;
+}
+.medicaretab{
+  padding-top: 10px;
+  margin-left: 210px;
+  position: absolute;
+  font-size: 40px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.medicaretab:hover{
+  color: rgb(31, 93, 151);
+}
+.contacttab{
+  padding-top: 25px;
+  margin-left: 980px;
+  position: absolute;
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.contacttab:hover{
+  color: rgb(24, 141, 82)
+}
+.newstab{
+  padding-top: 25px;
+  margin-left: 1130px;
+  position: absolute;
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.newstab:hover{
+  color: rgb(24, 141, 82)
+}
+.aboutustab{
+  padding-top: 25px;
+  margin-left: 1230px;
+  position: absolute;
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.aboutustab:hover{
+  color: rgb(24, 141, 82)
+}
+.sigintab{
+  padding-top: 25px;
+  margin-left: 1640px;
+  position: absolute;
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.sigintab:hover{
+  color: rgb(24, 141, 82)
+}
+.helptab{
+  padding-top: 25px;
+  margin-left: 1740px;
+  position: absolute;
+  font-size: 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.helptab:hover{
+  color: rgb(24, 141, 82)
+}

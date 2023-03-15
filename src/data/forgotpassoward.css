@@ -1,0 +1,38 @@
+.catch{
+    margin-top: 100px;
+    margin-left: 700px;
+  width: 500px;
+  border-radius: 25px;
+  color: white;
+  background-color: white;
+  color: black;
+  height: 620px;
+  font-family: 'Source Code Pro', monospace;
+  padding-top: 10px;
+}
+.header2{
+    margin-left: 120px;
+}
+.f1
+{
+    margin-left: 10px;
+}
+.i1npm{
+    margin-left: 10px;
+     width: 450px;
+     border-radius: 4px;
+}
+.in{
+    margin-left: 30px;
+}
+.bu{
+    margin-left: 50px;
+  background-color:  #f0f04e;
+  width: 400px;
+  height: 45px;
+  border-radius: 10px;
+  font-size: large;
+}
+.signin{
+    margin-left: 160px;
+}

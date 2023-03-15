@@ -1,0 +1,26 @@
+body{
+    background-color: #F8FAFC
+}
+.registration{
+    margin-left: 100px;
+    margin-top: -722px;
+}
+
+.formSetting{
+    
+      width: 500px;
+      border-radius: 25px;
+      color: white;
+      background-color: #6699CC;
+      color: white;
+      height: 550px;
+      font-family: 'Source Code Pro', monospace;
+      display: flex;
+      margin: auto;
+      text-align: center;
+      justify-content: center;
+    }
+
+    .header3{
+        color: #FFD700;
+    }

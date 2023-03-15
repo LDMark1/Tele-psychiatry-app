@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    width: 50%;
+  }
+
+  .time-slot {
+    background-color: lightblue;
+    border: 1px solid blue;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    text-align: center;
+  }
+  
